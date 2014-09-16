@@ -13,7 +13,8 @@
  *
  * @package WordPress
  */
-
+define('WP_SITEURL','https://brianmontecillo.com');
+define('WP_HOME','https://brianmontecillo.com');
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', $_SERVER["DB1_NAME"]);
@@ -26,6 +27,9 @@ define('DB_PASSWORD', $_SERVER["DB1_PASS"]);
 
 /** MySQL hostname */
 define('DB_HOST', $_SERVER["DB1_HOST"]);
+
+/** MySQL port */
+define('DB_PORT', $_SERVER["DB1_PORT"]);
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
