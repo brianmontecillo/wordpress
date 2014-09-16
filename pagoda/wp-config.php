@@ -13,8 +13,8 @@
  *
  * @package WordPress
  */
-define('WP_SITEURL','https://brianmontecillo.com');
-define('WP_HOME','https://brianmontecillo.com');
+define('WP_SITEURL','https://www.brianmontecillo.com');
+define('WP_HOME','https://www.brianmontecillo.com');
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', $_SERVER["DB1_NAME"]);
