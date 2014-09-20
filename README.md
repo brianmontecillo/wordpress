@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Quickstart Explanation
 ----------------------
 
@@ -20,3 +21,9 @@ The following is an explanation of how this Quickstart was created so you can us
             name: wp-db
     </code>
 </pre>
+=======
+wordpress
+=========
+
+Installation Files
+>>>>>>> 2ffda417597a3d75cca3886466dc7123a92dda24
